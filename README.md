@@ -8,7 +8,6 @@
 - Majored in **Statistics**
 - **Year-Dream School 4rd (DS Track)** , Now 
 - **Contact me** 👉🏻 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alsrud5527@gmail.com)](mailto:alsrud5527@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://zzoming-25.tistory.com/)](https://zzoming-25.tistory.com/)
 
 </br>
 
