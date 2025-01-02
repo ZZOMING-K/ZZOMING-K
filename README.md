@@ -7,7 +7,7 @@
 - Studying **Data Science & Analysis**
 - Majored in **Statistics**
 - **Year-Dream School 4rd (DS Track)** , Now 
-- **Contact me** 👉🏻 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alsrud5527@gmail.com)](mailto:alsrud5527@gmail.com)
+- **Contact me** 👉🏻 sao09101@naver.com 
 
 </br>
 
