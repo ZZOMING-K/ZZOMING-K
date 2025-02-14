@@ -6,7 +6,7 @@
 # Hi, I'm Minkyeong 🙋🏻‍♀️
 - Studying **Data Science & Analysis**
 - Majored in **Statistics**
-- **Year-Dream School 4rd (DS Track)** , Now 
+- **Year-Dream School 4rd (DS Track)**
 - **Contact me** 👉🏻 sao09101@naver.com 
 
 </br>
