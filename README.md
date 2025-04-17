@@ -19,3 +19,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
+
+### Blog
+[![Until 블로그 최신 글](https://ryc04otowj.execute-api.ap-northeast-2.amazonaws.com/blog-posts-svg?username=zzoming)](https://until.blog/@zzoming)
