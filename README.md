@@ -3,7 +3,7 @@
 <br> 
   
 
-# Hi, I'm Minkyeong 🙋🏻‍♀️
+# Hi, I'm Minkyeong 👩🏼‍💻
 Studying **Data Science & Analysis** ( Majored in **Statistics** )</br>
 **Year-Dream School 4rd (DS Track)**</br>
 **Contact me** 👉🏻 sao09101@naver.com</br> 
